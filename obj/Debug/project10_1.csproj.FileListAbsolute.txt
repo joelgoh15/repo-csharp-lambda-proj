@@ -1,0 +1,9 @@
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\bin\Debug\App_Data\ShoeInventoryDB.mdf
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\bin\Debug\App_Data\ShoeInventoryDB_log.ldf
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\bin\Debug\project10_1.exe.config
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\bin\Debug\project10_1.exe
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\bin\Debug\project10_1.pdb
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\obj\Debug\project10_1.csproj.AssemblyReference.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\obj\Debug\project10_1.csproj.CoreCompileInputs.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\obj\Debug\project10_1.exe
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project10_1\obj\Debug\project10_1.pdb
