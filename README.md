@@ -1,8 +1,10 @@
-# repo csharp lambda proj
-Console application. C# Lambda project.
+## Introduction
+Console application. 
 
-## Technical Description:
-1. Technology stacks and approach used:
+C# Lambda project.
+
+## Technical Description
+Technology stacks and approach used:
 <ul>
   <ul>
     <li>.Net Frameworok 4.6</li>
